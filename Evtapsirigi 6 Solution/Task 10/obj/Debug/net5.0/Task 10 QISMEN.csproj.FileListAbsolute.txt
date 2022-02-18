@@ -1,0 +1,15 @@
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\Task 10 QISMEN.exe
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\Task 10 QISMEN.deps.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\Task 10 QISMEN.runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\Task 10 QISMEN.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\Task 10 QISMEN.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\ref\Task 10 QISMEN.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\bin\Debug\net5.0\Task 10 QISMEN.pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\ref\Task 10 QISMEN.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.genruntimeconfig.cache

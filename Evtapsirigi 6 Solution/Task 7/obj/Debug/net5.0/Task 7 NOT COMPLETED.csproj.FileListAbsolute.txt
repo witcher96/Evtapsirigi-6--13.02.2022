@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\Task 7 NOT COMPLETED.exe
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\Task 7 NOT COMPLETED.deps.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\Task 7 NOT COMPLETED.runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\Task 7 NOT COMPLETED.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\Task 7 NOT COMPLETED.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\ref\Task 7 NOT COMPLETED.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\bin\Debug\net5.0\Task 7 NOT COMPLETED.pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\ref\Task 7 NOT COMPLETED.dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.genruntimeconfig.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 7\obj\Debug\net5.0\Task 7 NOT COMPLETED.csproj.AssemblyReference.cache

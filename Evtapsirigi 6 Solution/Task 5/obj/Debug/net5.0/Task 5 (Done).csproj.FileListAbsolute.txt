@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\Task 5 (Done).exe
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\Task 5 (Done).deps.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\Task 5 (Done).runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\Task 5 (Done).runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\Task 5 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\ref\Task 5 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\bin\Debug\net5.0\Task 5 (Done).pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\ref\Task 5 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).genruntimeconfig.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 5\obj\Debug\net5.0\Task 5 (Done).csproj.AssemblyReference.cache

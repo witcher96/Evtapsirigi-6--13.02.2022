@@ -1,0 +1,15 @@
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\Task 12 (DONE).exe
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\Task 12 (DONE).deps.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\Task 12 (DONE).runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\Task 12 (DONE).runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\Task 12 (DONE).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\ref\Task 12 (DONE).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\bin\Debug\net5.0\Task 12 (DONE).pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\ref\Task 12 (DONE).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 12\obj\Debug\net5.0\Task 12 (DONE).genruntimeconfig.cache
