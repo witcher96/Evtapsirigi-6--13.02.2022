@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\Task 2 (Done).exe
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\Task 2 (Done).deps.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\Task 2 (Done).runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\Task 2 (Done).runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\Task 2 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\ref\Task 2 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\bin\Debug\net5.0\Task 2 (Done).pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\ref\Task 2 (Done).dll
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).pdb
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 2\obj\Debug\net5.0\Task 2 (Done).genruntimeconfig.cache

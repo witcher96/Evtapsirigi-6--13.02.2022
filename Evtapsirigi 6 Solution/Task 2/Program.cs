@@ -9,26 +9,34 @@ namespace Task_2
             Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.OutputEncoding = System.Text.Encoding.Unicode;
             //2) Verilmish metnde sol terefden tek yerde dayanan simvollarin hamisi {a} simvoludurmu?
-            string word = "AAAAAAAAAAAaaaaa";//"Azərbaycan Azərbaycan Üçrəngli bayrağınla məsud yaşa!"
-            string a = word.Substring(1);
+            string word = "alfadeltabravo";//"Azərbaycan Azərbaycan Üçrəngli bayrağınla məsud yaşa!"
+            word=word.ToLower();
             int len=word.Length;
-            int counter=0;
+            char a = 'a';
+            bool okey = true;
 
 
             for (int i = 0; i < len; i++)
             {
-                if (word[len-1] == 'a')
+                if (i % 2 == 0)
                 {
-                    Console.WriteLine("Beraberdir");
-                    Console.ReadKey();
+                    if(word[i] != a)
+                    {
+                        okey = false;
+                        break;
+                    }
                 }
-                else
-                {
-                    Console.WriteLine("Beraber deyil");
-                    Console.ReadKey();
-                }
+
             }
-            Console.CursorTop = 1;
+            if (okey == true)
+            {
+                Console.WriteLine("dogrudur");
+            }
+            else
+            {
+                Console.WriteLine("yanlisdir");
+            }
+             
             
         }
     }

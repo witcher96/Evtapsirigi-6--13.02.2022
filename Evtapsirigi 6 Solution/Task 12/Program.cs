@@ -22,8 +22,8 @@ namespace Task_12
             
                 word = word.Insert(firstindex,"@");
                 word = word.Insert(lastindex+2, "@");
-            word = word.Replace('a', '-');
-            word = word.Replace('@', 'a');
+                word = word.Replace('a', '-');
+                word = word.Replace('@', 'a');
                 Console.WriteLine(word);
 
         }

@@ -13,3 +13,4 @@ C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 
 C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\ref\Task 10 QISMEN.dll
 C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.pdb
 C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.genruntimeconfig.cache
+C:\Users\predator\Desktop\Evtapsirigi-6--13.02.2022\Evtapsirigi 6 Solution\Task 10\obj\Debug\net5.0\Task 10 QISMEN.csproj.AssemblyReference.cache

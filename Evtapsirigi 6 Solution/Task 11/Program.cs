@@ -9,9 +9,9 @@ namespace Task_11
             Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.OutputEncoding = System.Text.Encoding.Unicode;
             //11) Verilmish metinde butun {a} simvollarinin qabagina {b} simvolunu ve eyni zamandan butun { b}simvollarinin qabagina { a} simvolunu yaz.
-            string word = "Azərbaycan Azərbaycan Üçrəngli bayrağınla məsud yaşa!";
+            string word = "AzərbaycanAzərbaycanbayrağınlayaşa!";
             word = word.ToLower();
-            char [] a = {'a'};
+            
 
             
 

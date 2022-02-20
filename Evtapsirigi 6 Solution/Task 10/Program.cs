@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Task_10
 {
@@ -11,24 +12,23 @@ namespace Task_10
             //10) Verilmish metinde butun reqemleri legv et.
 
             string soz="Alma4 armud3 heyva223 3a4rkajz2"; 
+            soz=soz.ToLower();
             int len =soz.Length;
+            int[] charcodes=Enumerable.Range(48,10).ToArray();
+            string karak = "";
 
-            soz = soz.Replace("1", " ");
-            soz = soz.Replace("2", " ");
-            soz = soz.Replace("3", " ");
-            soz = soz.Replace("4", " ");
-            soz = soz.Replace("5", " ");
-            Console.WriteLine(soz);
+            for (int i = 0; i < len; i++)
+            {
+                byte bit=Convert.ToByte(soz[i]);
 
+                if (Array.IndexOf(charcodes,bit)==-1)
+                {
+                karak = karak + soz[i];
 
-            //for (int i = 0; i < len; i++)
-            //{
-            //    if (i >= 0)
-            //    {
-            //        soz = soz.Remove(i,i);
-            //    }
-            //}
-            //Console.WriteLine(soz);
+                }
+            }
+            Console.WriteLine(karak);
+          
 
         }
     }
