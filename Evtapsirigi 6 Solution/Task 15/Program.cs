@@ -14,8 +14,8 @@ namespace Task_15
             string word = "raccaar";
             string firstindex =word.Substring(0,1);
             string lastindex=word.Substring(word.Length-1,1);
-            char[] a = { 'a' };
-            string alpha=word.IndexOfAny('a');
+            char[] ar = { 'a' };
+            int alpha=word.IndexOfAny(ar);
 
 
             for (int i = 0; i < word.Length-1; i++)
